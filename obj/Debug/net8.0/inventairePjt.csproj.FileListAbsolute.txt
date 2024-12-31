@@ -1,0 +1,14 @@
+C:\Users\gilda\source\repos\inventairePjt\bin\Debug\net8.0\inventairePjt.exe
+C:\Users\gilda\source\repos\inventairePjt\bin\Debug\net8.0\inventairePjt.deps.json
+C:\Users\gilda\source\repos\inventairePjt\bin\Debug\net8.0\inventairePjt.runtimeconfig.json
+C:\Users\gilda\source\repos\inventairePjt\bin\Debug\net8.0\inventairePjt.dll
+C:\Users\gilda\source\repos\inventairePjt\bin\Debug\net8.0\inventairePjt.pdb
+C:\Users\gilda\source\repos\inventairePjt\obj\Debug\net8.0\inventairePjt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilda\source\repos\inventairePjt\obj\Debug\net8.0\inventairePjt.AssemblyInfoInputs.cache
+C:\Users\gilda\source\repos\inventairePjt\obj\Debug\net8.0\inventairePjt.AssemblyInfo.cs
+C:\Users\gilda\source\repos\inventairePjt\obj\Debug\net8.0\inventairePjt.csproj.CoreCompileInputs.cache
+C:\Users\gilda\source\repos\inventairePjt\obj\Debug\net8.0\inventairePjt.dll
+C:\Users\gilda\source\repos\inventairePjt\obj\Debug\net8.0\refint\inventairePjt.dll
+C:\Users\gilda\source\repos\inventairePjt\obj\Debug\net8.0\inventairePjt.pdb
+C:\Users\gilda\source\repos\inventairePjt\obj\Debug\net8.0\inventairePjt.genruntimeconfig.cache
+C:\Users\gilda\source\repos\inventairePjt\obj\Debug\net8.0\ref\inventairePjt.dll
